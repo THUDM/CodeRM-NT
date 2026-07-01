@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://github.com/THUDM/CodeRM-NT"><img src="https://img.shields.io/badge/Code-GitHub-blue" alt="Code"></a>
-  <a href="assets/CodeRM-NT.pdf"><img src="https://img.shields.io/badge/Paper-PDF-red" alt="Paper"></a>
+  <a href="https://aclanthology.org/2026.findings-acl.2150.pdf"><img src="https://img.shields.io/badge/Paper-PDF-red" alt="Paper"></a>
   <a href="https://huggingface.co/Rishubi/CodeRM-NT"><img src="https://img.shields.io/badge/Model-HuggingFace-yellow" alt="Model"></a>
 </p>
 
