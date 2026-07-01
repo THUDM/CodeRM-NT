@@ -81,7 +81,28 @@ For the reward model, use our published [`Rishubi/CodeRM-NT`](https://huggingfac
 
 ## Citation
 
-TODO
+If you find our work helpful, please kindly cite our paper:
+
+```
+@inproceedings{xia-etal-2026-coderm,
+    title = "{C}ode{RM}-{NT}: Reward Model for Code {RL} without Unit Tests",
+    author = "Xia, Xiao  and
+      Zhang, Dan  and
+      Sun, Tianrui",
+    editor = "Liakata, Maria  and
+      Moreira, Viviane P.  and
+      Zhang, Jiajun  and
+      Jurgens, David",
+    booktitle = "Findings of the {A}ssociation for {C}omputational {L}inguistics: {ACL} 2026",
+    month = jul,
+    year = "2026",
+    address = "San Diego, California, United States",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2026.findings-acl.2150/",
+    pages = "43316--43333",
+    ISBN = "979-8-89176-395-1"
+}
+```
 
 ## Acknowledgements
 
